@@ -1,0 +1,6 @@
+{
+  "name": "Classwork Portal",
+  "description": "A high-performance gaming-vibe school classwork portal to upload, organize, and download PDFs, images, and documents across Semesters 1 to 8.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
